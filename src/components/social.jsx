@@ -23,7 +23,7 @@ const SocialMediaFollows = () => {
       </div>
       <div className="text-center">
         {/* GitHub button */}
-        <a href="https://github.com/yourusername/yourrepository" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/ehsanallahi/passwordGenerator" target="_blank" rel="noopener noreferrer">
           <button className="bg-gray-800 hover:bg-gray-700 text-white py-2 px-4 rounded transition duration-300">View on GitHub</button>
         </a>
       </div>
